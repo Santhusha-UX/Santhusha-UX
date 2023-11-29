@@ -1,5 +1,8 @@
 # Hi there! 👋 I'm Santhusha Mallawatantri
 
+![:name](https://count.getloli.com/get/@Santhusha_UX)
+
+
 ## 🎮 UX Hero by Day, UI Junkie by Night 🌙
 
 Welcome to my GitHub sanctuary, where pixels and code collide in a symphony of design. I'm a self-taught UX designer hailing from the vibrant city of Colombo, Sri Lanka 🏝️, on a mission to craft digital experiences that resonate.
@@ -39,4 +42,6 @@ Sit back, relax, and let the Japanese lo-fi vibes serenade your visit. 🎵
 ### 🌟 Let's Build Something Extraordinary Together!
 
 Feel free to explore my repositories, and if you have any questions or collaboration ideas, reach out! I'm always up for a coding quest or a design duel. 🚀
+
+![Banner](https://github.com/Santhusha-UX/Santhusha-UX/assets/152367473/989e1e82-8183-466b-a663-b6e4a92de1dc)
 
