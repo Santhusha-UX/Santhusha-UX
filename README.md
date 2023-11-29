@@ -8,7 +8,7 @@ Welcome to my GitHub sanctuary, where pixels and code collide in a symphony of d
 
 - 🎓 Final year computer science undergrad at the University of Westminster.
 - 💼 Freelancing since 2020, danced with companies like Arimac Lanka, Altria Consulting, and WSO2.
-- 🛠️ Tools I wield: Figma, Miro, Adobe Suite, Balsamiq, Principle, and a secret stash of productivity tools.
+- 🛠️ Tools I wield: Figma, Miro, Adobe Suite, Balsamiq, Principle, Blender, and a secret stash of productivity tools.
 
 ### 🎨 Design Arsenal
 
@@ -19,7 +19,7 @@ Welcome to my GitHub sanctuary, where pixels and code collide in a symphony of d
 
 - 🌐 Knowledge hunting in the UX galaxy.
 - ✨ Crafting UIs with impeccable UX.
-- 📝 Blogging about UX on Medium.
+- 📝 Blogging about UX on [Medium](https://medium.com/@SanthushaM).
 - 🎮 Gaming for relaxation and occasional hyper-mode.
 
 ### 🎶 Soundtrack of my README
