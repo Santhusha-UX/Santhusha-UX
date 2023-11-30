@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Santhusha Mallawatantri
 
-![:name](https://count.getloli.com/get/@Santhusha_UX)
+![:name](https://count.getloli.com/get/@Santhusha_UX?theme=rule34)
 
 
 ## 🎮 UX Hero by Day, UI Junkie by Night 🌙
