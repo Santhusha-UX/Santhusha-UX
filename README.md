@@ -26,14 +26,6 @@
 
 <br />
 
-<div align="center">
-  <a href="LINK_TO_YOUR_RESUME_PDF">
-    <img src="https://img.shields.io/badge/📥_INITIATE_DOWNLOAD-RESUME_CV.pdf-0d1117?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FF0000&border=00ff41" />
-  </a>
-</div>
-
-<br />
-
 ### 🛠️ ARSENAL & LOADOUT
 
 | **MODULE** | **TECHNOLOGY STACK** |
@@ -70,11 +62,11 @@
   <br /><br />
   
   <img src="https://img.shields.io/badge/NET_TRAFFIC-LOGGING...-000000?style=flat&logo=docusign&logoColor=00ff41" />
-  <br />
-  <img src="https://count.getloli.com/get/@Santhusha_UX?theme=gelbooru-h" alt="Pixel Counter" />
+  <br /><br />
+  <img src="https://count.getloli.com/get/@Santhusha_UX?theme=original-new" alt="Pixel Counter" />
 </div>
 
-<br />
+<br /><br />
 
 ### 📡 SIGNAL TRANSMISSION
 
