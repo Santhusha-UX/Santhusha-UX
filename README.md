@@ -95,3 +95,27 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=60&section=footer" />
 </div>
+
+<br />
+
+<!--
+```text
+// =============================================================================
+//  🛑 SYSTEM_INTERRUPT: SOURCE_CODE_ACCESSED
+// =============================================================================
+//
+//  > USER_DETECTED: [Curious Developer / Recruiter]
+//  > ACCESS_LEVEL:  ROOT (You looked behind the curtain)
+//
+//  MESSAGE_FROM_KERNEL:
+//  "The interface is just the beginning. 
+//   If you are reading this, you speak the language of the machine.
+//   We should probably build something extraordinary together."
+//
+//  -----------------------------------------------------------------------------
+//  >> INITIATE_HANDSHAKE: omallawatantri@gmail.com
+//  >> CURRENT_STATUS:     READY_FOR_DEPLOYMENT
+//  >> SIGNATURE:          SANTHU [GOD_OF_UX]
+// =============================================================================
+```
+-->
