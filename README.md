@@ -63,17 +63,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Santhusha-UX&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ffd700&text_color=ffffff&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhusha-UX&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ffd700" height="160"/>
   
+  <br />
+  
+  <img src="https://github.com/Santhusha-UX/Santhusha-UX/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  
   <br /><br />
   
   <img src="https://img.shields.io/badge/NET_TRAFFIC-LOGGING...-000000?style=flat&logo=docusign&logoColor=00ff41" />
   <br />
   <img src="https://count.getloli.com/get/@Santhusha_UX?theme=gelbooru-h" alt="Pixel Counter" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github.com/Santhusha-UX/Santhusha-UX/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br />
