@@ -43,7 +43,7 @@
 | **ID** | **CODENAME** | **PROTOCOL** | **STATUS** |
 | :--- | :--- | :--- | :--- |
 | **01** | [**ANDÚRIL_OS v7.0**](https://santhusha-ux.github.io/my-strudel-music/) | *Algorithmic Audio Portfolio / Web OS* | `🟢 ONLINE` |
-| **02** | [**IEEE_PUB_10927947**](https://ieeexplore.ieee.org/abstract/document/10927947) | *Published Research: ICTER Conference* | `🔵 PUBLISHED` |
+| **02** | [**IEEE_PUB_10927947**](https://ieeexplore.ieee.org/abstract/document/10927947) | *Published Research: ICCA Conference* | `🔵 PUBLISHED` |
 | **03** | **GAME_DEV_LAB** | *Unity/Unreal Prototyping* | `🟡 IN_DEV` |
 | **04** | **UX_ARCHIVE** | *Fintech & AI Case Studies* | `🟢 ONLINE` |
 
