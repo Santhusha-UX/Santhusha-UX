@@ -26,6 +26,14 @@
 
 <br />
 
+<div align="center">
+  <a href="LINK_TO_YOUR_RESUME_PDF">
+    <img src="https://img.shields.io/badge/📥_INITIATE_DOWNLOAD-RESUME_CV.pdf-0d1117?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FF0000&border=00ff41" />
+  </a>
+</div>
+
+<br />
+
 ### 🛠️ ARSENAL & LOADOUT
 
 | **MODULE** | **TECHNOLOGY STACK** |
